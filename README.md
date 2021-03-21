@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![](https://i.ibb.co/0DjF83c/mypres.png)
-
+<p align="center">
+  <img align="center" src="https://i.ibb.co/0DjF83c/mypres.png" />
+</p>
 
 <p align="center">
 <a href="https://github.com/houzefa-onaly">
