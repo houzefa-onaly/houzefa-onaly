@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-### I’m a multidisciplinary engineering student at Ecole Centrale de Lyon
+![](https://i.ibb.co/0jFQcrQ/Capture-Copie.png)
 
