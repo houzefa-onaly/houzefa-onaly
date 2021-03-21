@@ -11,4 +11,4 @@
 </a></p>
 <br>
 
-![](https://komarev.com/ghpvc/?username=houzefa-onaly&label=Visitors)
+![](https://komarev.com/ghpvc/?username=houzefa-onaly&color=blue)
