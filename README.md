@@ -2,7 +2,6 @@
 
 ![](https://i.ibb.co/0DjF83c/mypres.png)
 
-![](https://komarev.com/ghpvc/?username=houzefa-onaly&label=Visitors)
 
 <p align="center">
 <a href="https://github.com/houzefa-onaly">
@@ -11,3 +10,4 @@
 </a></p>
 <br>
 
+![](https://komarev.com/ghpvc/?username=houzefa-onaly&label=Visitors)
