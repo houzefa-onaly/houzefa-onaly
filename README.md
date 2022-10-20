@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img align="center" src="https://i.ibb.co/StHynFf/mynewpres2021.png" />
+  <img align="center" src="https://i.ibb.co/tY1KZWQ/carbon.png" />
 </p>
 
 <!-- <p align="center">
